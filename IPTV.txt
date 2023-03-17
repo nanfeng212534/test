@@ -1,4 +1,4 @@
-4K频道,#genre#
+4K频道
 苏州 4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 CCTV 4K,http://159.75.85.63:5679/cctv4k.php
 CCTV16 4K,http://live.cooltv.top/tv/aishang.php?id=cctv164k
@@ -10,8 +10,7 @@ TRT 4k,http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/4001/index.m3u8
 VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
 ULTRA NATURE TV 4K,http://185.236.229.31:9981/play/a01d
 Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-
-央视,#genre#
+央视
 CCTV1,http://219.142.150.54:9901/tsfile/live/0001_1.m3u8
 CCTV2,http://219.142.150.54:9901/tsfile/live/0002_1.m3u8
 CCTV3,http://219.142.150.54:9901/tsfile/live/0003_1.m3u8
@@ -34,8 +33,7 @@ CETV-1,http://txycetvbl.centv.cn/cetv1/ypd.m3u8
 CETV-2,http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
 CETV-3,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
 CETV-4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
-
-卫视,#genre#
+卫视
 黑龙江卫视,http://106.115.27.214:9901/tsfile/live/1013_1.m3u8
 吉林卫视,http://106.115.27.214:9901/tsfile/live/1052_1.m3u8
 辽宁卫视,http://106.115.27.214:9901/tsfile/live/1042_1.m3u8
@@ -70,8 +68,7 @@ CETV-4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 青海卫视（720P）,http://stream.qhbtv.com/qhws/sd/live.m3u8
 西藏卫视,https://tv.vtibet.cn/live/EfgSmE4jCTBtvchannel3.m3u8
 兵团卫视,https://epg.pw/stream/2b202f5131e7f838ffc3e9da818d60c3de9feafe181ddcaa97d7f3f2bf722134.m3u8
-
-香港,#genre#
+香港
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
@@ -83,8 +80,7 @@ TVB星河,http://r.jdshipin.com/sXuuD
 TVB功夫（720P）,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 无线财经,http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt
 面包台（720P）,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-
-台湾,#genre#
+台湾
 中天新闻,http://2023.stream-link.org/playlist/cti_news.flv
 中天综合,http://23.237.10.66:16372
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
@@ -104,23 +100,17 @@ TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 华视综艺,http://2023.stream-link.org/playlist/cts_zy.flv
 好消息,http://123.51.230.108:18507/.m3u8
-
-澳新,#genre#
+澳新
 澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
 八度空间,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 亚州新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-
-电影,#genre#
+电影
 4K超高清电影,http://r.jdshipin.com/5DWJk
 IPTV高清院线,http://119.39.128.18:88/hls/34/index.m3u8
 IPTV抗战剧场,http://119.39.128.18:88/hls/35/index.m3u8
 IPTV古装剧场,http://119.39.128.18:88/hls/36/index.m3u8
 IPTV经典剧场,http://119.39.128.18:88/hls/37/index.m3u8
-
-体育,#genre#
-https://nmglive.imfc.cn/5n1r1c/182396.m3u8
-
-NEWTV,#genre#
+NEWTV
 东北热剧,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
 中国功夫,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225660/index.m3u8
 军事评论,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8
@@ -142,8 +132,7 @@ NEWTV,#genre#
 超级电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225766/index.m3u8
 超级电视剧,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225625/index.m3u8
 超级综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225768/index.m3u8
-
-SiTV,#genre#
+SiTV
 SiTV都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
 SiTV欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 SiTV动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
